@@ -1,4 +1,4 @@
-# leet_code
+# two_sum
  Quang on leet_code
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
